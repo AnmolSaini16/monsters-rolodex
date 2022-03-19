@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Just a practice project to understand react basics: https://anmolsaini16.github.io/monsters-rolodex/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
